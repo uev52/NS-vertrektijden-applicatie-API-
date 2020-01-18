@@ -1,0 +1,643 @@
+s-Hertogenbosch
+s-Hertogenbosch Oost
+t Harde
+Aachen Hbf
+Aachen Rothe Erde
+Aachen Schanz
+Aachen West
+Aalten
+Abcoude
+Ahaus
+Aime-la-Plagne
+Aix-en-Provence
+Akkrum
+Albertville
+Alessandria
+Alkmaar
+Alkmaar Noord
+Almelo
+Almelo de Riet
+Almere Buiten
+Almere Centrum
+Almere Muziekwijk
+Almere Oostvaarders
+Almere Parkwijk
+Almere Poort
+Alphen a/d Rijn
+Altenberge
+Amersfoort
+Amersfoort Schothorst
+Amersfoort Vathorst
+Amsterdam Amstel
+Amsterdam Bijlmer ArenA
+Amsterdam Centraal
+Amsterdam Holendrecht
+Amsterdam Lelylaan
+Amsterdam Muiderpoort
+Amsterdam RAI
+Amsterdam Science Park
+Amsterdam Sloterdijk
+Amsterdam Van der Madeweg
+Amsterdam Zuid
+Anna Paulowna
+Antwerpen-Berchem
+Antwerpen-Centraal
+Antwerpen-Luchtbal
+Antwerpen-Noorderdokken
+Antwerpen-Zuid
+Apeldoorn
+Apeldoorn De Maten
+Apeldoorn Osseveld
+Appingedam
+Arkel
+Arnemuiden
+Arnhem
+Arnhem Presikhaaf
+Arnhem Velperpoort
+Arnhem Zuid
+Ashford International
+Assen
+Augsburg Hbf
+Avignon TGV
+Baarn
+Bad Bentheim
+Bad Nieuweschans
+Bad Oeynhausen
+Bad Schandau
+Baden
+Baden-Baden
+Baflo
+Barendrecht
+Barneveld Centrum
+Barneveld Noord
+Barneveld Zuid
+Basel Bad Bf
+Basel SBB
+Bedum
+Beek-Elsloo
+Beesd
+Beilen
+Belsele
+Bergen op Zoom
+Berlin Hbf
+Berlin Hbf (tief)
+Berlin Ostbahnhof
+Berlin S�dkreuz
+Berlin-Sch�nefeld Flug.
+Berlin-Spandau
+Best
+Beveren
+Beverwijk
+Bielefeld Hbf
+Bilthoven
+Bilzen
+Bischofshofen
+Blerick
+Bloemendaal
+Bludenz
+Bodegraven
+Boisheim
+Bonn Hbf
+Boom
+Bork
+Borne
+Boskoop
+Bourg-St-Maurice
+Boven-Hardinxveld
+Bovenkarspel Flora
+Bovenkarspel-Grootebroek
+Boxmeer
+Boxtel
+Braunschweig Hbf
+Breda
+Breda-Prinsenbeek
+Bressoux
+Breukelen
+Breyell
+Brummen
+Brussel Nat. Luchthaven
+Brussel-Centraal
+Brussel-Noord
+Brussel-Zuid/Midi
+Buitenpost
+Bunde
+Bunnik
+Bussum Zuid
+B�nen
+B�nde (Westf)
+Capelle Schollevaar
+Castricum
+Chamb�ry
+Chevremont
+Chur
+Coesfeld (Westf)
+Coevorden
+Como
+Cuijk
+Culemborg
+Daarlerveen
+Dalen
+Dalfsen
+De Vink
+De Westereen
+Decin hl.n.
+Deinum
+Delden
+Delft
+Delft Zuid
+Delfzijl
+Delfzijl West
+Den Dolder
+Den Haag Centraal
+Den Haag HS
+Den Haag Laan v NOI
+Den Haag Mariahoeve
+Den Haag Moerwijk
+Den Haag Ypenburg
+Den Helder
+Den Helder Zuid
+Deurne
+Deventer
+Deventer Colmschate
+Didam
+Diemen
+Diemen Zuid
+Diepenbeek
+Dieren
+Doetinchem
+Doetinchem De Huet
+Domodossola
+Dordrecht
+Dordrecht Stadspolders
+Dordrecht Zuid
+Dortmund Derne
+Dortmund Hbf
+Dortmund Kirchderne
+Dresden Hbf
+Dresden-Neustadt
+Driebergen-Zeist
+Driehuis
+Dronrijp
+Dronten
+Duffel
+Duisburg Hbf
+Duiven
+Duivendrecht
+D�lken
+D�lmen
+D�ren
+D�sseldorf Hbf
+Ebbsfleet International
+Echt
+Ede Centrum
+Ede-Wageningen
+Eijs-Wittem
+Eijsden
+Eilendorf
+Eindh Beukenln tot 13 dec
+Eindhoven
+Eindhoven Strijp-S
+Ekeren
+Elst
+Emmen
+Emmen Zuid
+Emmerich
+Enkhuizen
+Ennepetal (Gevelsberg)
+Enschede
+Enschede De Eschmarke
+Enschede Drien tot 13 dec
+Enschede Kennispark
+Epe (Westf)
+Ermelo
+Eschweiler Hbf
+Eschweiler Talbahnhof
+Eschweiler-Nothberg
+Eschweiler-Weisweiler
+Eschweiler-West
+Essen (Belgie)
+Etten-Leur
+Eygelshoven
+Eygelshoven Markt
+Feanwalden
+Fieberbrunn
+Franeker
+Frankfurt (M) Hbf
+Frankfurt (Oder)
+Frankfurt Flughafen Fernb
+Freiburg (Breisgau) Hbf
+Gaanderen
+Geerdijk
+Geislingen
+Geldermalsen
+Geldrop
+Geleen Oost
+Geleen-Lutterade
+Gilze-Rijen
+Glanerbrug
+Glons
+Goes
+Goor
+Gorinchem
+Gouda
+Gouda Goverwelle
+Gramsbergen
+Grijpskerk
+Gronau (Westf.)
+Groningen
+Groningen Europapark
+Groningen Noord
+Grou-Jirnsum
+Gulpen-Wijlre
+G�ppingen
+G�nzburg
+Haarlem
+Haarlem Spaarnwoude
+Hagen Hbf
+Halfweg-Zwanenburg
+Hamburg Hbf
+Hamm (Westf.)
+Hannover Hbf
+Hardenberg
+Harderwijk
+Hardinxveld Blauwe Zoom
+Hardinxveld-Giessendam
+Haren
+Harlingen
+Harlingen Haven
+Hasselt
+Heemskerk
+Heemstede-Aerdenhout
+Heerenveen
+Heerenveen IJsstadion
+Heerhugowaard
+Heerlen
+Heerlen De Kissel
+Heerlen Woonboulevard
+Heeze
+Heide
+Heiloo
+Heino
+Helmond
+Helmond 't Hout
+Helmond Brandevoort
+Helmond Brouwhuis
+Hemiksem
+Hemmen-Dodewaard
+Hengelo
+Hengelo Gezondheidspark
+Hengelo Oost
+Herstal
+Herzogenrath
+Hillegom
+Hilversum
+Hilversum Media Park
+Hilversum Sportpark
+Hindeloopen
+Hoboken-Polder
+Hoek van Holland Haven
+Hoek van Holland Strand
+Hoensbroek
+Hoevelaken
+Hollandsche Rading
+Holten
+Holzwickede
+Hoofddorp
+Hoogeveen
+Hoogezand-Sappemeer
+Hoogkarspel
+Hoorn
+Hoorn Kersenboogerd
+Hopfgarten
+Horst-Sevenum
+Houten
+Houten Castellum
+Houthem-St Gerlach
+Hove
+Hurdegaryp
+IJlst
+Innsbruck Hbf
+Jenbach
+Kaldenkirchen
+Kalmthout
+Kampen
+Kampen Zuid
+Kapelle-Biezelinge
+Kapellen
+Karlsruhe Hbf
+Kerkrade Centrum
+Kerkrade West
+Kesteren
+Kijkuit
+Kirchberg in Tirol
+Kitzb�hel
+Klarenbeek
+Klimmen-Ransdaal
+Koblenz Hbf
+Kohlscheid
+Konin
+Kontich
+Koog Bloemwijk
+Koog-Zaandijk
+Koudum-Molkwerum
+Krabbendijke
+Krommenie-Assendelft
+Kropswolde
+Kruiningen-Yerseke
+Kufstein
+Kutno
+K�ln Hbf
+K�ln-Deutz
+Lage Zwaluwe
+Landeck
+Landgraaf
+Landquart
+Landry
+Langerwehe
+Leer (Ostfriesland)
+Leerdam
+Leeuwarden
+Leeuwarden Achter d Hoven
+Leeuwarden Camminghaburen
+Legden
+Leiden Centraal
+Leiden Lammenschans
+Lelystad Centrum
+Lette (Kr Coersfeld)
+Leuven
+Lichtenvoorde-Groenlo
+Liers
+Lille Europe
+Limburg S�d
+Livorno Centrale
+Li�ge-Guillemins
+Li�ge-Jonfosse
+Li�ge-Palais
+Lochem
+Lokeren
+London St. Pancras
+Loppersum
+Lunteren
+L�dinghausen
+L�nen Hbf
+Maarheeze
+Maarn
+Maarssen
+Maassluis
+Maassluis West
+Maastricht
+Maastricht Noord
+Maastricht Randwyck
+Mainz Hbf
+Mannheim Hbf
+Mantgum
+Mari�nberg
+Marne-la-Vall�e-Chessy
+Marseille-St-Charles
+Martenshoek
+Mechelen
+Mechelen-Nekkerspoel
+Meerssen
+Melsele
+Meppel
+Metelen Land
+Middelburg
+Milmort
+Minden (Westf.)
+Montabaur
+Mook Molenhoek
+Mortsel-Deurnesteenweg
+Mortsel-Oude God
+Moutiers-Salins-Brides
+M�nchengladbach Hbf
+M�nchen Hbf
+M�nster (Westf.) Hbf
+M�nster Zentrum Nord
+M�nster-H�ger
+Naarden-Bussum
+Neuss Hbf
+Niel
+Nieuw Amsterdam
+Nieuw Vennep
+Nieuwerkerk a/d IJssel
+Nieuwkerken-Waas
+Nijkerk
+Nijmegen
+Nijmegen Dukenburg
+Nijmegen Goffert
+Nijmegen Heyendaal
+Nijmegen Lent
+Nijverdal
+Noorderkempen
+Nordwalde
+Nunspeet
+Nuth
+N�rnberg Hbf
+Obdam
+Oberhausen Hbf
+Ochtrup
+Offenburg
+Oisterwijk
+Oldenzaal
+Olst
+Ommen
+Oosterbeek
+Opheusden
+Osnabr�ck Hbf
+Oss
+Oss West
+Oudenbosch
+Overveen
+Paris-Nord
+Plochingen
+Poznan Gl.
+Praha hl.n.
+Praha-Holesovice
+Preussen
+Purmerend
+Purmerend Overwhere
+Purmerend Weidevenne
+Putten
+Puurs
+Raalte
+Rathenow
+Ravenstein
+Reuver
+Rheden
+Rheine
+Rhenen
+Rijssen
+Rijswijk
+Rilland-Bath
+Roermond
+Roodeschool
+Roosendaal
+Rosendahl-Holtwick
+Rosmalen
+Rotterdam Alexander
+Rotterdam Blaak
+Rotterdam Centraal
+Rotterdam Lombardijen
+Rotterdam Noord
+Rotterdam Stadion
+Rotterdam Zuid
+Ruisbroek-Sauvegarde
+Ruurlo
+Rzepin
+Saalfelden
+Santpoort Noord
+Santpoort Zuid
+Sappemeer Oost
+Sassenheim
+Sauwerd
+Schagen
+Scheemda
+Schelle
+Schiedam Centrum
+Schiedam Nieuwland
+Schin op Geul
+Schinnen
+Schiphol
+Schwarzach-St. Veit
+Schwelm
+Schwerte (Ruhr)
+Selm
+Selm-Beifang
+Siegburg/Bonn
+Simpelveld
+Sinaai
+Sint-Katelijne-Waver
+Sint-Niklaas
+Sittard
+Sliedrecht
+Sliedrecht Baanhoek
+Sneek
+Sneek Noord
+Soest
+Soest Zuid
+Soestdijk
+Spaubeek
+Spekholzerheide
+St-Mariaburg
+St. Johann im Pongau
+St. Johann in Tirol
+Stavoren
+Stedum
+Steenwijk
+Steinfurt-Borghorst
+Steinfurt-Burgsteinfurt
+Steinfurt-Grottenkamp
+Stendal
+Stolberg Altstadt
+Stolberg GBF
+Stolberg Hbf
+Stolberg M�hlener Bahnhof
+Stolberg Rathaus
+Stolberg Schneidemuhle
+Stuttgart Hbf
+Susteren
+Swalmen
+Tantow
+Tegelen
+Terborg
+Tiel
+Tiel Passewaaij
+Tilburg
+Tilburg Reeshof
+Tilburg Universiteit
+Tongeren
+Twello
+Uitgeest
+Uithuizen
+Uithuizermeeden
+Ulm Hbf
+Unna
+Usquert
+Usti nad Labem
+Utrecht-Centraal
+Utrecht-Leidsche Rijn
+Utrecht-Lunetten
+Utrecht-Maliebaan
+Utrecht-Overvecht
+Utrecht-Terwijde
+Utrecht-Zuilen
+Valence TGV
+Valkenburg
+Varsseveld
+Veendam
+Veenendaal Centrum
+Veenendaal West
+Veenendaal-De Klomp
+Veenwouden tot 13 dec
+Velp
+Venlo
+Venray
+Vierlingsbeek
+Viersen
+Vis�
+Vlaardingen Centrum
+Vlaardingen Oost
+Vlaardingen West
+Vleuten
+Vlissingen
+Vlissingen Souburg
+Voerendaal
+Voorburg
+Voorhout
+Voorschoten
+Voorst-Empe
+Vorden
+Vriezenveen
+Vroomshoop
+Vught
+Waddinxveen
+Waddinxveen Noord
+Warffum
+Warszawa Centralna
+Warszawa Wschodnia
+Weener
+Weert
+Weesp
+Wehl
+Westervoort
+Wezep
+Wien Westbahnhof
+Wierden
+Wijchen
+Wijhe
+Wildert
+Winschoten
+Winsum
+Winterswijk
+Winterswijk West
+Woerden
+Wolfheze
+Wolfsburg
+Wolvega
+Workum
+Wormerveer
+Wuppertal Barmen
+Wuppertal Hbf
+Wuppertal Oberbarmen
+Wuppertal-Vohwinkel
+W�rgl
+W�rzburg Hbf
+Zaandam
+Zaandam Kogerveld
+Zaltbommel
+Zandvoort aan Zee
+Zell am See
+Zetten-Andelst
+Zevenaar
+Zevenbergen
+Zoetermeer
+Zoetermeer Oost
+Zuidbroek
+Zuidhorn
+Zutphen
+Zwaagwesteinde tot 13 dec
+Zwijndrecht
+Zwijndrecht (Belgie)
+Zwolle
+Z�rich HB
+�tztal
