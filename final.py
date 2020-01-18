@@ -19,7 +19,7 @@ def clicked1(master):
     #hier maak je een variable station om de invoer in de invoerveld te pakken en in de url van de NS API te plaatsen,zodat je een juiste url verwijzing (juiste station) krijgt
     station =(invoerveld.get())
     #dit is authenticatie/ om in te loggen in de NS API( Actuele trein vertrektijden en bestemmingen)
-    auth_details = ('thom.dejong@student.hu.nl', 'IFuanK8OC2L30skbbKrtCSJ8_tS9a2rWp9I9nnPZKFG--83bSuJxDg')
+    auth_details = ('API-Gebruiker', 'API-key')
     #verwijzing naar de webserver van de NS API, om bij de gegevens te kunnen komen ,zoals je ziet word aan het einde van de url je variable station toegevoegd dat eerder in de invoerveld is ingevuld
     api_url = 'http://webservices.ns.nl/ns-api-avt?station='+station
     response = requests.get(api_url, auth=auth_details)
